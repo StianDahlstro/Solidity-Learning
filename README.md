@@ -9,8 +9,10 @@ Udemy courses:
 Reading other smart contracts and protocols:
 - Alchemix Finance
     - alchemix.fi
+    - https://github.com/aave/aave-protocol
 - Aave
     - aave.com
+    - https://github.com/aave/aave-protocol
 
 Reading and understanding openzeppelin's contract standards, eventually using them in my own projects:
 - openzeppelin.com
