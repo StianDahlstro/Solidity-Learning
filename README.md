@@ -9,7 +9,7 @@ Udemy courses:
 Reading other smart contracts and protocols:
 - Alchemix Finance
     - alchemix.fi
-    - https://github.com/aave/aave-protocol
+    - https://github.com/alchemix-finance/alchemix-protocol
 - Aave
     - aave.com
     - https://github.com/aave/aave-protocol
