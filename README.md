@@ -24,3 +24,5 @@ Reading and understanding openzeppelin's contract standards, eventually using th
     - Governance
 
 Youtube tutorials:
+- Solidity, Blockchain and Smart Contract Course - Beginner to expert python tutorial (Patrick Collins / FreeCodeCamp
+    - https://www.youtube.com/watch?v=M576WGiDBdQ
